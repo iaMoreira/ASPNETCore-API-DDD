@@ -1,0 +1,8 @@
+/home/ian/Documentos/dotnet/Api-DDD/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.deps.json
+/home/ian/Documentos/dotnet/Api-DDD/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.dll
+/home/ian/Documentos/dotnet/Api-DDD/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.pdb
+/home/ian/Documentos/dotnet/Api-DDD/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csprojAssemblyReference.cache
+/home/ian/Documentos/dotnet/Api-DDD/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfoInputs.cache
+/home/ian/Documentos/dotnet/Api-DDD/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfo.cs
+/home/ian/Documentos/dotnet/Api-DDD/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.dll
+/home/ian/Documentos/dotnet/Api-DDD/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.pdb

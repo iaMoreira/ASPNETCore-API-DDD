@@ -1,0 +1,8 @@
+/home/ian/Documentos/dotnet/Api-DDD/src/Api.Data/bin/Debug/netcoreapp3.1/Data.deps.json
+/home/ian/Documentos/dotnet/Api-DDD/src/Api.Data/bin/Debug/netcoreapp3.1/Data.dll
+/home/ian/Documentos/dotnet/Api-DDD/src/Api.Data/bin/Debug/netcoreapp3.1/Data.pdb
+/home/ian/Documentos/dotnet/Api-DDD/src/Api.Data/obj/Debug/netcoreapp3.1/Data.csprojAssemblyReference.cache
+/home/ian/Documentos/dotnet/Api-DDD/src/Api.Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfoInputs.cache
+/home/ian/Documentos/dotnet/Api-DDD/src/Api.Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfo.cs
+/home/ian/Documentos/dotnet/Api-DDD/src/Api.Data/obj/Debug/netcoreapp3.1/Data.dll
+/home/ian/Documentos/dotnet/Api-DDD/src/Api.Data/obj/Debug/netcoreapp3.1/Data.pdb
